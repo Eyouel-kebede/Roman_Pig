@@ -1,0 +1,23 @@
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\bin\x86\Debug\Content\Pig 1.xnb
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\bin\x86\Debug\Content\Pig 2.xnb
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\bin\x86\Debug\Roman_Pig.exe
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\bin\x86\Debug\Roman_Pig.pdb
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\bin\x86\Debug\Microsoft.Xna.Framework.dll
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\bin\x86\Debug\Microsoft.Xna.Framework.xml
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\obj\x86\Debug\Roman_Pig.csprojResolveAssemblyReference.cache
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\obj\x86\Debug\Roman_Pig.exe
+\\fisd-student1\hs\chs\270009\documents\visual studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\obj\x86\Debug\Roman_Pig.pdb
+\\Fisd-student1\hs\chs\270009\Documents\Visual Studio 2015\Projects\Roman Pig\Roman Pig\Roman_Pig\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\Roman Pig\Roman Pig\Roman_Pig\obj\x86\Debug\Roman_Pig.csprojResolveAssemblyReference.cache
+E:\Roman Pig\Roman Pig\Roman_Pig\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Roman Pig\Roman Pig\Roman_Pig\obj\x86\Debug\Roman_Pig.exe
+E:\Roman Pig\Roman Pig\Roman_Pig\obj\x86\Debug\Roman_Pig.pdb
